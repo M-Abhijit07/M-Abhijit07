@@ -23,7 +23,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer in learning and a major interest in Game Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Abhijit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abhijit-mondal-5637ab245/)
 
 ### :hammer_and_wrench: Languages and Tools :
