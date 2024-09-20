@@ -19,7 +19,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mondal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [Gender Classification in children](https://github.com/mo-jo-dev/childGenderDetection)
+- 🔭 I’m currently working on Health Monitoring System.
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning**
 
